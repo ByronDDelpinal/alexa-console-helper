@@ -1,7 +1,7 @@
 # Alexa Console Helper
 The current Amazon Alexa Skills Console is missing some pretty key (and important) functionality: Filtering and sorting. Adding this as a bookmark in Chrome will add UI elements and functionality to add this into the page.
 
-[[https://github.com/ByronDDelpinal/alexa-console-helper/blob/master/img/alexa_console_additions.png|alt=console-screenshot]]
+![https://github.com/ByronDDelpinal/alexa-console-helper/blob/master/img/alexa_console_additions.png](Alexa console example with UI elements)
 
 ## Adding the bookmark
 To add a bookmark that executes this Javascript in Chrome:
